@@ -329,6 +329,11 @@ nav a:hover {
   background: #ffffff;
 }
 
+.tech-section {
+  background: #fafafa;
+  border-top: 1px solid #f0f0f0;
+}
+
 .heading {
   display: grid;
   grid-template-columns: 1fr 0.7fr;
